@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="96a3a91b-dece-4dc9-9494-c5fb8e48e3b0" name="Default Changelist" comment="" />
+    <list default="true" id="96a3a91b-dece-4dc9-9494-c5fb8e48e3b0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +17,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1YoFzLv8ZRAX4EESw9oH11Y1gmk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -110,6 +117,14 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="2475" y="263" width="806" height="679" key="#Notifications" timestamp="1583696281358">
+      <screen x="1920" y="0" width="1920" height="1200" />
+    </state>
+    <state x="2475" y="263" width="806" height="679" key="#Notifications/0.31.1920.1120/1920.0.1920.1200@1920.0.1920.1200" timestamp="1583696281358" />
+    <state x="2466" y="189" width="824" height="827" key="CommitChangelistDialog2" timestamp="1583696087056">
+      <screen x="1920" y="0" width="1920" height="1200" />
+    </state>
+    <state x="2466" y="189" width="824" height="827" key="CommitChangelistDialog2/0.31.1920.1120/1920.0.1920.1200@1920.0.1920.1200" timestamp="1583696087056" />
     <state width="1889" height="301" key="GridCell.Tab.0.bottom" timestamp="1583693601529">
       <screen x="1920" y="0" width="1920" height="1200" />
     </state>
@@ -154,6 +169,10 @@
       <screen x="1920" y="0" width="1920" height="1200" />
     </state>
     <state x="2369" y="236" width="1022" height="732" key="SettingsEditor/0.31.1920.1120/1920.0.1920.1200@1920.0.1920.1200" timestamp="1583608311379" />
+    <state x="2475" y="337" width="806" height="530" key="Vcs.Push.Dialog.v2" timestamp="1583696259496">
+      <screen x="1920" y="0" width="1920" height="1200" />
+    </state>
+    <state x="2475" y="337" width="806" height="530" key="Vcs.Push.Dialog.v2/0.31.1920.1120/1920.0.1920.1200@1920.0.1920.1200" timestamp="1583696259496" />
     <state x="624" y="452" key="com.intellij.ide.util.TipDialog" timestamp="1583666679565">
       <screen x="0" y="31" width="1920" height="1120" />
     </state>
